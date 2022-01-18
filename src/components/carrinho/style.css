@@ -1,0 +1,29 @@
+button{
+  margin: 5px 15px 5px;
+}
+
+.quantidade{
+  margin: 10px 15px 10px;
+}
+
+.carrinho{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+input{
+  width: 100px;
+}
+
+.card{
+  align-items: center;
+  align-content: center;
+  height: 500px;
+  width: 400px;
+}
+.card.nutricao{
+  margin-left: 70px;
+  width: 200px;
+  height: 280px;
+}
+
