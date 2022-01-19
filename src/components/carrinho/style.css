@@ -2,6 +2,10 @@ button{
   margin: 5px 15px 5px;
 }
 
+p.title.titulo{
+  display: flex;
+}
+
 .quantidade{
   margin: 10px 15px 10px;
 }
@@ -12,17 +16,19 @@ button{
 }
 
 input{
-  width: 100px;
+  max-width: 50px;
 }
 
-.card{
-  align-items: center;
-  align-content: center;
-  height: 500px;
+.column.carrinho{
   width: 400px;
+  height: 540px;
+}
+
+.card.carrinho{
+  height: 500px;
 }
 .card.nutricao{
-  margin-left: 70px;
+  
   width: 200px;
   height: 280px;
 }
