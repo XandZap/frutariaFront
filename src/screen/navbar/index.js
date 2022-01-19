@@ -43,5 +43,3 @@ const NavBar = () => {
 };
 
 export default NavBar;
-
-//src="../../../public/logo-frexco-slogan.png"
